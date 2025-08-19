@@ -8,11 +8,15 @@ O desafio consiste em comparar diferentes algoritmos, ajustar hiperparâmetros e
 
 ## 🎯 Objetivos
 - Realizar análise exploratória dos dados (EDA).  
-- Pré-processar as variáveis (normalização, one-hot encoding etc.).  
+- Pré-processar as variáveis (normalização, one-hot encoding etc.).
+- Classificação das variáveis em categóricas e numéricas.
+-Etapas de normalização ou codificação.
+-Separação dos dados em conjuntos de treino e teste.  
 - Treinar e avaliar diferentes modelos de classificação:  
   - Dummy Classifier  
   - Decision Tree Classifier  
-  - KNN (inicial e ajustado)  
+  - KNN (inicial e ajustado)
+  - Justificativas para as escolhas feitas durante a modelagem.  
 - Comparar métricas: **Acurácia, Precisão, Recall, F1-score e Matriz de Confusão**.  
 - Identificar sinais de **overfitting** e **underfitting**.  
 - Sugerir próximos passos para melhoria do modelo.  
